@@ -1,16 +1,65 @@
-### Hi there 👋
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AyoubChaiba.AyoubChaiba" />
 
-<!--
-**AyoubChaiba/AyoubChaiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=2000&pause=700&color=1B86FF&center=true&vCenter=true&random=false&width=439&lines=Hi+There!;I'm+Ayoub+Chiba!" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate FullStack developer from Morocco.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ay.chaiba98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayoub-chaiba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="##" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Skills ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,sass,vscode,github,figma,git,angular" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,php,laravel" /><br>
+</div>
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=500 src="https://streak-stats.demolab.com?user=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15" alt="streak stats"/>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15" alt="readme stats" />
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=320" />
+  <br/>
+<a href="https://github.com/anuraghazra/convoychat">
+ 
+</a>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
