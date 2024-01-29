@@ -43,23 +43,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://streak-stats.demolab.com?user=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15" alt="streak stats"/>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15" alt="readme stats" />
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=320" />
-  <br/>
-<a href="https://github.com/anuraghazra/convoychat">
- 
-</a>
+    <img src="https://streak-stats.demolab.com?user=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=390" alt="streak stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=390" alt="readme stats" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=390" />
 </div>
-
-<br/><br/>
+<br/>
 
 <hr/>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/ayoubch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
 <br/>
