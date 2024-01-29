@@ -45,7 +45,7 @@
 <div align=center>
     <img src="https://streak-stats.demolab.com?user=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=390" alt="streak stats"/>
     <img src="https://github-readme-stats.vercel.app/api?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=390" alt="readme stats" />
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=390" />
+<!--     <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubChaiba&show_icons=true&theme=dark&hide_border=true&border_radius=15&card_width=390" /> -->
 </div>
 <br/>
 
