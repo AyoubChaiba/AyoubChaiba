@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <!-- <br/> -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,sass,vscode,github,figma,git,angular" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,sass,vscode,github,figma,git,angular,docker" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,mysql,php,laravel" /><br>
 </div>
 <!-- <br/> <hr/> -->
