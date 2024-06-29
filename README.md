@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AyoubChaiba.AyoubChaiba" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=2000&pause=700&color=1B86FF&center=true&vCenter=true&random=false&width=439&lines=Hi+There!;I'm+Ayoub+Chiba!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=2000&pause=700&color=1B86FF&center=true&vCenter=true&random=false&width=439&lines=Hi+There!;I'm+Ayoub+Chaiba!" />
 </h1>
 <h3 align="center">A passionate FullStack developer from Morocco.</h3>
 
